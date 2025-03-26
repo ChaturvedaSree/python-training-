@@ -1,0 +1,23 @@
+operators
+= : assignment
+== : equivalent
++ : addition
+- : subtraction
+!= : not equals
+
+data types
+int = integers 
+float = decimals
+string = characters
+list = list of mutable elements
+tuple = list of immutable elements
+dict = key value pairs
+set = list of unique elements
+
+
+types of variable
+global variable
+local variable
+
+function
+def
